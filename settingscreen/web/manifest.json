@@ -1,6 +1,6 @@
 {
-    "name": "settingscreen",
-    "short_name": "settingscreen",
+    "name": "account_example",
+    "short_name": "account_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

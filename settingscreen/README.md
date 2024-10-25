@@ -1,4 +1,4 @@
-# settingscreen
+# account_example
 
 A new Flutter project.
 
