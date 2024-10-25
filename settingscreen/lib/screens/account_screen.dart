@@ -57,7 +57,7 @@ class _AccountScreenState extends State<AccountScreen> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          "Uranus Code",
+                          "",
                           style: TextStyle(
                             fontSize: 18,
                             fontWeight: FontWeight.w500,
@@ -65,7 +65,7 @@ class _AccountScreenState extends State<AccountScreen> {
                         ),
                         SizedBox(height: 10),
                         Text(
-                          "Youtube Channel",
+                          "",
                           style: TextStyle(
                             fontSize: 14,
                             color: Colors.grey,
